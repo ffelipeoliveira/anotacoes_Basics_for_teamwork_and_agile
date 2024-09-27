@@ -3,8 +3,9 @@
 
 ---
 ### Trilha
-1. [Agile Thinking](anotacoes\Agile.md)
-2. [Scrum](anotacoes\Scrum.md)
-3. [Git](anotacoes\Git.md)
-4. [GitHub](anotacoes\Github.md)
-5. [Conventional Commits](anotacoes\CComits)
+1. [Agile Thinking](anotacoes/Agile.md)
+2. [Scrum](anotacoes/Scrum.md)
+3. [Git](anotacoes/Git.md)
+4. [GitHub](anotacoes/Github.md)
+5. [Conventional Commits](anotacoes/CComits)
+6. [Segurança](anotacoes/Security.md)
