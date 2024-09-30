@@ -1,21 +1,28 @@
 # Segurança da informação
-De acordo com o NIST:
+#### De acordo com o NIST:
 > A segurança da informação é a proteção de informações e sistemas de informação contro o acesso, o uso, a divulgação, a interrupção, a modificação ou a destruição não autorizados.
 
 ---
-### Pilares da segurança da informação
+### Sumário
+1. Pilares da segurança da informação
+2. Política de segurança da informação
+3. Política de classificação da informação
+4. Engenharia social
+5. Boas práticas e diretrizes
+---
+### 1. Pilares da segurança da informação
 * Confidencialidade
 * integridade
 * Disponibilidade
   
 ---
-### Política de segurança da informação
+### 2. Política de segurança da informação
 1. Descreve as melhores práticas de segurança da informação
 2. estabelece as diretrizes para todos os usuários
 3. minimiza os riscos de segurança
    
 ---
-### Política de Classificação da informação
+### 3. Política de Classificação da informação
 Conhecendo o tipo de informação é possível definir o nível de sensibilidade que ela representa
 
 * **Confidencial**
@@ -29,7 +36,7 @@ Conhecendo o tipo de informação é possível definir o nível de sensibilidade
   * Informações que podem ser divulgadas sem restrição para o público geral.
   
 ---
-### Engenharia Social
+### 4. Engenharia Social
 Engenharia Social é a habilidade de conseguir acesso à informações ou áreas importantes de algo ou alguém através de habilidades de persuasão.
 
 * **Baiting**:
@@ -41,7 +48,7 @@ Engenharia Social é a habilidade de conseguir acesso à informações ou áreas
   * Em casos de descuidado relatórios, discos, planilhas com qualquer tipo de classificação podem acabar nas mãos de um atacante através do lixo.
 
 ---
-### Boas práticas e diretrizes
+### 5. Boas práticas e diretrizes
 * As credenciais de acesso, de qualquer sistema, constituem uma    identificação do usuário. As informações devem ser armazenados nos repositórios oficiais a quais eles pertencem.
 * Utilize ferramentas homologadas e licenças comerciais providas pela empresa.
 * Não utilize essas ferramentas para fins pessoais ou ilícitos.
@@ -49,4 +56,4 @@ Engenharia Social é a habilidade de conseguir acesso à informações ou áreas
 * Utilize mascaramento de dados.
 * Não troque qualquer dado real de clientes.
 
-[Voltar](../Readme.md)
+[Voltar](../../Readme.md)

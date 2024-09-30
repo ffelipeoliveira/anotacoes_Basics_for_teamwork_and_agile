@@ -1,5 +1,5 @@
 # GitHub
-GitHub é uma ferramenta em **nuvem** desenvolvida para armazenar e facilitar o gerenciamento e o desenvolvimento de projetos em equipe.
+#### GitHub é uma ferramenta em **nuvem** desenvolvida para armazenar e facilitar o gerenciamento e o desenvolvimento de projetos em equipe.
 Com o uso do GitHub é possível gerenciar projetos diretamente do seu terminal ou IDE.
 
 Para usá-lo primeiro você deverá se [cadastrar ou entrar](https://github.com/).
@@ -15,4 +15,4 @@ No GitHub é possível:
 * Visualizar métricas e fazer análises
 * Criar **Forks**
 
-[Voltar](../Readme.md)
+[Voltar](../../Readme.md)

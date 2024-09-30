@@ -1,5 +1,16 @@
-# METODOLOGIAS ÁGEIS
-### Framework Cynefir
+# Metodologias Ágeis
+
+#### Em uma empresa, entregar valor a um cliente consistentemente pode ser difícil. Para isso foi desenvolvido métodos para **agilizar** a entrega.
+
+---
+### Sumário
+1. Framework Cynefir
+2. Heart of Agile
+3. Manifesto Ágil
+4. Princípios Ágeis
+
+---
+### 1. Framework Cynefir
 Divisão entre categorias de dificuldade da situação:
 1. **Simples**
     * Conhecido 
@@ -17,22 +28,23 @@ Divisão entre categorias de dificuldade da situação:
     * Inconcebível
     * Requer comando para sobrevivência.
     * _"Não sabemos e dificilmente poderemos reparar."_  
+
 ---
-### Heart of Agile
+### 2. Heart of Agile
 Mindset do programador ágil:
 * Colaborar
 * Entregar
 * Refletir
 * Melhorar
 ---
-### Manifesto Ágil
+### 3. Manifesto Ágil
   Durante uma reunião, foi concebido as seguintes regras gerais:  
   * Indivíduos > processos e ferramentas
   * Software funcionando > documentação
   * Colaboração com o cliente > negociação de contratos
   * Responder a mudanças > seguir um plano
 ---
-### Princípios Ágeis
+### 4. Princípios Ágeis
   Fundamentação  do Agile Thinking:
   1. Satisfaça o consumidor
   2. Aceite bem mudanças
@@ -47,4 +59,4 @@ Mindset do programador ágil:
   11. Times auto-organizados
   12. Refletir e Ajustar
 
-  [Voltar](../Readme.md)
+[Voltar](../../Readme.md)

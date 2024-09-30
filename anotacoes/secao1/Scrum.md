@@ -1,13 +1,26 @@
 # Scrum
+
 #### Scrum é um framework com o qual as pessoas podem resolver problemas complexos e adaptáveis, enquanto entregam produtos de forma produtiva e criativa e com o maior valor possível.  
 #### Times Scrum são pequenos e realizam eventos com uma duração fixa (Time box) e ciclos iterativos com o objetivo de construir produtos e entregar valor para o cliente.
 * Leve
 * Simples
 * Difícil de aplicar
 * Baseado no impirismo
-  
 ---
-### Pilares
+
+### Sumário
+1. Pilares
+2. Time Scrum
+3. Time Box
+4. Eventos
+5. Sprint
+6. Eventos da Sprint
+7. Artefatos Scrum
+8. User Stories
+9. Visão de Produto
+10. Grooming
+---
+### 1. Pilares
 * Transparência  
   * Visível aos responsáveis pelo controle.
 * Inspeção
@@ -16,7 +29,7 @@
   * Quando houver variação fora dos limites, adaptar.
   
 ---
-### Time Scrum
+### 2. Time Scrum
 * **Scrum master**
   * Possui amplo conhecimento do Framework Scrum
   * Promove e apoia o Scrum
@@ -40,20 +53,20 @@
   * Gerencia parte técnica
   
 ---
-### Time Box
+### 3. Time Box
 * Tempo máximo **pré-definido e fixo**.
 * Quando o Time Box acaba o evento deve terminar automaticamente
 * Pode terminar antes do limite
 
 ---
-### Sprint
+### 4. Sprint
 * Coração do Scrum
 * Ciclos de **4 semanas**
 * O trabalho completado deve entregar valor ao cliente
 * Consiste em **Sprint Planning**, **Daily Scrum**, **Sprint Review** e **Retrospectiva**
 
 ---
-### Eventos da Sprint
+### 5. Eventos da Sprint
 * **Sprint Panning**
   * Product Owner planeja as tasks conforme o  backlog, gerando o **Sprint backlog**, feito no início da Sprint.
 * **Daily Scrum**
@@ -64,7 +77,7 @@
   * Retrospectiva de até 3 horas objetivando identificar o que correu bem, o que pode ser melhorado e o que pode ser descartado.
   
 ---
-### Artefatos Scrum
+### 6. Artefatos Scrum
 * **Backlog do Produto**
 * **Backlog da versão de entrega**
 * **Backlog da Sprint**
@@ -72,7 +85,7 @@
 * **Burndown Charts**
   
 ---
-### User Stories
+### 7. User Stories
 São um formato conveniente para expressar o valor desejado de negócio
 * **Épicos**
   * Requisitos grandes demais ou com ausência de detalhes suficientes para serem desenvolvidas.
@@ -80,11 +93,11 @@ São um formato conveniente para expressar o valor desejado de negócio
   * Grupo de histórias de usuário ou épicos correlacionados.
   
 ---
-### Visão de produto  
+### 8. Visão de produto  
 Descreve de maneira clara e objetiva a meta da fase e suas principais realizações
 
 ---
-### Grooming
+### 9. Grooming
 É a preparação e refinamento do Product Backlog. Verifica-se a granularidade das PBI's e a necessidade de quebrar em itens menores. Mostra que o Backlog não é estático, o ideal é que seja reservado 10% do tempo para o Grooming.
 
-[Voltar](../Readme.md)
+[Voltar](../../Readme.md)

@@ -1,5 +1,6 @@
 # Conventional Commits
-Conventional Commits é uma convenção sobre mensagens de commit utilizada para criar um histórico explícito e fácil de se desenvolver ferramentas automatizadas em cima
+
+#### Conventional Commits é uma convenção sobre mensagens de commit utilizada para criar um histórico explícito e fácil de se desenvolver ferramentas automatizadas em cima
 
 ---
 ### Sintaxe
@@ -28,4 +29,4 @@ Também pode-se escrever **BREAKING CHANGE** no rodapé para explicar qual funci
 
 **Exemplo**: feat(api)!: app now sends sms confirmation before login
 
-[Voltar](../Readme.md)
+[Voltar](../../Readme.md)
