@@ -11,7 +11,8 @@
 4. Bloco
 5. Função Hash
 6. Proof of Work
-7. Quando usar Blockchain
+7. Mineração
+8. Quando usar Blockchain
    
 ---
 ### 1. Contexto Histórico
@@ -68,7 +69,9 @@ Para alterar uma informação já registrada na blockchain todo o resto da block
 * A quantidade de zeros é chamada de dificuldade e é atualizada de modo que algum minerador consiga encontrar um bloco novo a cada 10 minutos, em média. Ou seja, quando houver poucos mineradores, a dificuldade irá diminuir.
 
 * A mineração não é cumulativa, mas sim aleatória.
-
+  
+---
+### 7. Mineração
 * A **coinbase transaction**, o ato de encontrar o próximo bloco, corresponde à principal forma de remuneração dos mineradores.
   
 * A mineração é responsável por 0,16% do consumo de eletricidade. Por isso é bastante criticada.
@@ -76,13 +79,15 @@ Para alterar uma informação já registrada na blockchain todo o resto da block
 * A mineração é responsável pela segurança da Blockchain. Por causa dela, é praticamente impossível fraudar a Blockchain por que para isso seria necessário tem 51% do processo computacional da rede, o que é impossível para qualquer organização.
 
 * Mesmo que isso se tornasse de alguma forma possível, o preço do Bitcoin despencaria, o que tornaria a fraude inútil.
-  
+
 Pode demorar 1466 anos para um computador encontrar um bloco do Bitcoin, por isso existe os **mining pods**, redes de computadores especalizados em minerar.  
 Quando um desses computadores encontra um bloco, a remuneração é dividida entre todos que participaram de proporcionalmente ao esforço empregado.  
 Mining pods são automatizados e não mineram apenas uma só criptomoeda.
 
+Para que o preço do Bitcoin não diminua, existe o **Halving**, que é o fato de que de tempos em tempos a recompensa para mineradores cai pela metade. Isso torna a mineração menos lucrativa, reduzindo o número de mineradores e consequentemente o número de blocos que serão produzidos, até chegar a 21 milhões de blocos, o máximo de blocos que o Bitcoin terá.
+
 ---
-### 7. Quando usar Blockchain
+### 8. Quando usar Blockchain
 
 Por conta da propriedade da imutabilidade, blockchain pode ser útil quando precisa-se armazenar dados que não podem ser apagados ou alterados, como por exemplo registros. No entanto também é válido ressaltar que Blockchain é pública, mesmo que em escala menor ou privada, pois o grande número de nós é essencial para a segurança. Então ele deve ser usado somente quando pode-se dar a esse dado um grau elevado de transparência.
 

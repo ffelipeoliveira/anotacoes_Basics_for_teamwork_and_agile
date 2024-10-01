@@ -8,6 +8,7 @@
 1. Contexto Histórico
 2. Bitcoin x Banco Tradicional
 3. Rede Bitcoin
+4. Gasto duplo
    
 ---
 ### 1. Contexto Histórico
@@ -43,5 +44,15 @@ Qualquer computador conectado à rede Blockchain é um nó desta rede.
 * Lite Nodes
   * Não armazenam toda a blockchain
   * Necessitam de informações de outros nós
+
+---
+### 4. Gasto Duplo
+Um os problemas que no geral as demais moedas não conseguiam solucionar era o problema do gasto duplo.  
+Gasto duplo é o ato de usar uma mesma moeda para mais de uma transação.  
+Normalmente isso seria impossível, pois as moedas são destruídas no ato da transferência.  
+Porém é teoricamente possível sobrescrever o bloco onde essas moedas são transferidas ao computar novos blocos a partir do bloco anterior a ela, fazendo com que a cadeia mais longa seja a que o bloco da transferência não está incluído.  
+Na prática isso se torna simplesmente inviável.
+* O atacante teria de deter pelo menos 51% do processamento da rede, necessitando de um investimento extremamente grande em equipamentos caros.
+* Nesse caso a moeda sofreria uma queda enorme no valor devido a falha de segurança, e o valor despencaria, tornando inútil o esforço empregado.
   
 [Voltar](../../Readme.md)

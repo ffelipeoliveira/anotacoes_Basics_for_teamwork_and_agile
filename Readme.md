@@ -1,5 +1,5 @@
-# Anotações sobre Blockchain
- Esse repositório compila as anotações sobre estudos relacionados ao desenvolvimento de **BlockChain**, incluindo conhecimentos prévios necessários ao desenvolvimento correto de aplicações nessa área.
+# Anotações da trilha Blockchain
+ Esse repositório compila as anotações sobre estudos relacionados ao desenvolvimento de **Blockchain**, incluindo conhecimentos prévios necessários ao desenvolvimento correto de aplicações nessa área.
 
 ---
 ### Seção 1 - Conhecimentos prévios
@@ -16,3 +16,4 @@
 
 1. [Blockchain](anotacoes/secao2/Blockchain.md)
 2. [Bitcoin](anotacoes/secao2/Bitcoin.md)
+3. [Ethereum](anotacoes/secao2/Ethereum.md)
