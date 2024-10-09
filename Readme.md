@@ -8,7 +8,7 @@
 2. [Scrum](anotacoes/secao1/Scrum.md)
 3. [Git](anotacoes/secao1/Git.md)
 4. [GitHub](anotacoes/secao1/Github.md)
-5. [Conventional Commits](anotacoes/secao1/CComits)
+5. [Conventional Commits](anotacoes/secao1/CComits.md)
 6. [Segurança](anotacoes/secao1/Security.md)
 
 ---
