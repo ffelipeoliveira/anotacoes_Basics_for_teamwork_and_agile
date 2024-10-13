@@ -1,9 +1,17 @@
-# Git
-#### Git é um software de versionamento de código aberto essencial para trabalho organizado e bem gerenciado.
+<h1 align="center" style="font-weight: bold;">Git 📦</h1>
 
-Para usá-lo você terá de fazer o [download](https://git-scm.com/downloads).
+<p align="center">
+Git é um software de versionamento de código aberto essencial para trabalho organizado e bem gerenciado.
+</p>
 
-Após instalado, você poderá usar o terminar para comandar o software.
+---
+### Como usar
+1. Para usá-lo você terá de fazer o [download](https://git-scm.com/downloads).
+
+2. Após instalado, você poderá usar o console para comandar o software.
+
+---
+### Comandos
 
 |       Comando              |                  Função                |
 |----------------------------|----------------------------------------|

@@ -1,8 +1,12 @@
-# Anotações da trilha Blockchain
- Esse repositório compila as anotações sobre estudos relacionados ao desenvolvimento de **Blockchain**, incluindo conhecimentos prévios necessários ao desenvolvimento correto de aplicações nessa área.
+<h1 align="center" style="font-weight: bold;">Trilha BlockChain 🔗</h1>
+
+<p align="center">
+ Esse repositório compila as anotações sobre estudos relacionados ao desenvolvimento de <b>Blockchain</b>, incluindo conhecimentos prévios necessários ao desenvolvimento correto de aplicações nessa área.
+</p>
+ 
 
 ---
-### Seção 1 - Conhecimentos prévios
+### Seção 1 - Conhecimentos prévios 💻
 
 1. [Agile Thinking](anotacoes/secao1/Agile.md)
 2. [Scrum](anotacoes/secao1/Scrum.md)
@@ -12,7 +16,7 @@
 6. [Segurança](anotacoes/secao1/Security.md)
 
 ---
-### Seção 2 - Introdução
+### Seção 2 - Introdução 📚
 
 1. [Blockchain](anotacoes/secao2/Blockchain.md)
 2. [Bitcoin](anotacoes/secao2/Bitcoin.md)

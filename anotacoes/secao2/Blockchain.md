@@ -1,6 +1,8 @@
-# Blockchain
+<h1 align="center" style="font-weight: bold;">BlockChain ⛓</h1>
 
-#### Blockchain é um cadeia de blocos que armazena informações de modo seguro, imutável e descentralizado.
+<p align="center">
+Blockchain é um cadeia de blocos que armazena informações de modo seguro, imutável e descentralizado.
+</p>
 
 ---
 ### Sumário

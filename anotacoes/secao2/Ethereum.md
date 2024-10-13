@@ -1,5 +1,8 @@
-# Ethereum
-#### O Ethereum é uma rede Blockchain que tem o diferencial de conseguir executar programas de computador. Possui uma moeda nativa, o Ether, que pode ser dividida em até um quintilhão de Weis.
+<h1 align="center" style="font-weight: bold;">Ethereum 💻</h1>
+
+<p align="center">
+O Ethereum é uma rede Blockchain que tem o diferencial de conseguir executar programas de computador. Possui uma moeda nativa, o Ether, que pode ser dividida em até um quintilhão de Weis.
+</p>
 
 ---
 ### Sumário

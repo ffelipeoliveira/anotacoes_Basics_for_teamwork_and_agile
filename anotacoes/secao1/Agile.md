@@ -1,6 +1,8 @@
-# Metodologias Ágeis
+<h1 align="center" style="font-weight: bold;">Metodologias Ágeis 🏁</h1>
 
-#### Em uma empresa, entregar valor a um cliente consistentemente pode ser difícil. Para isso foi desenvolvido métodos para **agilizar** a entrega.
+<p align="center">
+ Em uma empresa, entregar valor a um cliente consistentemente pode ser difícil. Para isso foi desenvolvido métodos para <b>agilizar</b> a entrega.
+</p>
 
 ---
 ### Sumário

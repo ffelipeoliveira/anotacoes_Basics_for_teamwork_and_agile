@@ -1,6 +1,8 @@
-# Bitcoin
+<h1 align="center" style="font-weight: bold;">Bitcoin 💲</h1>
 
-#### Bitcoin é uma moeda digital baseada em Blockchain muito usada para investimentos, compras e transferências.
+<p align="center">
+Bitcoin é uma moeda digital baseada em Blockchain muito usada para investimentos, compras e transferências.
+</p>
 
 ---
 ### Sumário

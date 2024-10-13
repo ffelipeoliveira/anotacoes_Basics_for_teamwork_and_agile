@@ -1,11 +1,10 @@
-# Scrum
+<h1 align="center" style="font-weight: bold;">Scrum 📈</h1>
 
-#### Scrum é um framework com o qual as pessoas podem resolver problemas complexos e adaptáveis, enquanto entregam produtos de forma produtiva e criativa e com o maior valor possível.  
-#### Times Scrum são pequenos e realizam eventos com uma duração fixa (Time box) e ciclos iterativos com o objetivo de construir produtos e entregar valor para o cliente.
-* Leve
-* Simples
-* Difícil de aplicar
-* Baseado no impirismo
+<p align="center">
+Scrum é um framework com o qual as pessoas podem resolver problemas complexos e adaptáveis, enquanto entregam produtos de forma produtiva e criativa e com o maior valor possível. </br> 
+Times Scrum são pequenos e realizam eventos com uma duração fixa (Time box) e ciclos iterativos com o objetivo de construir produtos e entregar valor para o cliente.
+</p>
+
 ---
 
 ### Sumário

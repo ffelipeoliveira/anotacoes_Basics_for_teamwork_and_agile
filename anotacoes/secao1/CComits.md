@@ -1,6 +1,8 @@
-# Conventional Commits
+<h1 align="center" style="font-weight: bold;">Conventional Commits ⛑</h1>
 
-#### Conventional Commits é uma convenção sobre mensagens de commit utilizada para criar um histórico explícito e fácil de se desenvolver ferramentas automatizadas em cima
+<p align="center">
+Conventional Commits é uma convenção sobre mensagens de commit utilizada para criar um histórico explícito e fácil de se desenvolver ferramentas automatizadas em cima
+</p>
 
 ---
 ### Sintaxe
